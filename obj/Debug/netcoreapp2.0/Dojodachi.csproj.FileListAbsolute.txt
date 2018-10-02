@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/bin/Debug/netcoreapp2.0/Dojodachi.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day6/Dojodachi/obj/Debug/netcoreapp2.0/Dojodachi.pdb
